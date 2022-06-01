@@ -1,0 +1,39 @@
+.ProfilePage {
+    text-align: center;
+    background-color: lightgray;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: black;
+}
+
+.ProfileDetails {
+    text-align: left; 
+    margin-top: 5%;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15;
+}
+
+.Wishlist {
+    text-align: center; 
+    margin-top: 5%;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15;
+}
+
+.CreditCardList {
+    text-align: center; 
+    margin-top: 5%;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15;
+}
+
+.CreditCard {
+    text-align: center; 
+    margin-top: 5%;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15;
+}
